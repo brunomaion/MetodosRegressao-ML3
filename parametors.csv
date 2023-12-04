@@ -1,0 +1,7 @@
+Classificador;Parametros
+KNR;distance
+SVR;kernel;C
+MLP;hidden layer sizes;activation;max iter;learning rate
+RF;n estimators;criterion;max depth;min samples split;min samples leaf
+GB;n estimators;loss;max depth;learning rate;min samples split;min samples leaf
+RLM;
